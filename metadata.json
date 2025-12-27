@@ -1,0 +1,8 @@
+
+{
+  "name": "SOC Learning Log - Evidence-Based Portfolio",
+  "description": "A professional, technical learning log for cybersecurity students focusing on SOC and Blue Team operations. Built with React and Tailwind, featuring Markdown-first content and Gemini-powered log analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
